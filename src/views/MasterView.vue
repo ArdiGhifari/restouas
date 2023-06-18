@@ -27,8 +27,8 @@
                         <i class="fa fa-bars"></i>
                     </button>
                     <a class="navbar-brand" href="index.html">
-                        <img src="assets/img/logo-light.png" class="logo logo-display" alt="Logo">
-                        <img src="assets/img/logo.png" class="logo logo-scrolled" alt="Logo">
+                        <img src="frontend/img/logo-light.png" class="logo logo-display" alt="Logo">
+                        <img src="frontend/img/logo.png" class="logo logo-scrolled" alt="Logo">
                     </a>
                 </div>
                 <!-- End Header Navigation -->
@@ -69,27 +69,27 @@
                 <div class="widget">
                     <h4 class="title">About Us</h4>
                     <p>
-                        Arrived compass prepare an on as. Reasonable particular on my it in sympathize. Size now easy eat hand how. Unwilling he departure elsewhere dejection at. Heart large seems may purse means few blind.
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus aliquid non, repudiandae dolorum laboriosam sint provident nobis iusto. Unde culpa architecto porro ratione sapiente doloremque odit ex, minima quisquam! Doloremque?
                     </p>
                 </div>
                 <div class="widget opening-hours">
-                    <h4 class="title">Openig Hours</h4>
+                    <h4 class="title">Opening Hours</h4>
                     <ul>
                         <li> 
-                            <span> Mon - Tues :  </span>
-                            <div class="pull-right"> 6.00 am - 10.00 pm </div>
+                            <span> Senin - Selasa :  </span>
+                            <div class="pull-right"> 17.00 WIB - 22.00 WIB </div>
                         </li>
                         <li> 
-                            <span> Wednes - Thurs :</span>
-                            <div class="pull-right"> 8.00 am - 6.00 pm </div>
+                            <span> Rabu - Kamis :</span>
+                            <div class="pull-right"> 16.00 WIB - 22.00 WIB </div>
                         </li>
                         <li> 
-                            <span> Launch :</span>
-                            <div class="pull-right"> Everyday </div>
+                            <span> Sabtu - Minggu :</span>
+                            <div class="pull-right"> 16.00 WIB - 23.00 WIB </div>
                         </li>
                         <li> 
-                            <span> Sun : </span>
-                            <div class="pull-right closed"> Closed </div>
+                            <span> Jum'at : </span>
+                            <div class="pull-right closed"> Tutup </div>
                         </li>
                     </ul>
                 </div>
@@ -108,8 +108,6 @@
                     <ul class="link">
                         <li class="facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                         <li class="twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li class="pinterest"><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                        <li class="dribbble"><a href="#"><i class="fab fa-dribbble"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -123,7 +121,7 @@
 
     <!-- Start Banner 
     ============================================= -->
-    <div class="banner-area responsive-auto-height ds-fonts text-light video-bg-live bg-fixed" style="background-image: url(assets/img/2440x1578.png);">
+    <div class="banner-area responsive-auto-height ds-fonts text-light video-bg-live bg-fixed" style="background-image: url(frontend/img/2440x1578.png);">
         <div class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=hoiGV-N-2Gs',containment:'.video-bg-live', showControls:false, autoPlay:true, zoom:0, loop:true, mute:true, startAt:5, opacity:1, quality:'default'}"></div>
         <div id="bootcarousel" class="carousel transparent-nav slide carousel-fade animate_text" data-ride="carousel">
             <!-- Wrapper for slides -->
@@ -233,7 +231,7 @@
         </div>
         <!-- Shape -->
         <div class="wavesshape">
-            <img src="assets/img/shape.png" alt="Shape">
+            <img src="frontend/img/shape.png" alt="Shape">
         </div>
         <!-- Shape -->
     </div>
@@ -332,7 +330,7 @@
             <div class="row">
                 <div class="services-items services-carousel owl-carousel owl-theme text-center text-light">
                     <!-- Single Item -->
-                    <div class="item bg-cover" style="background-image: url(assets/img/800x600.png);">
+                    <div class="item bg-cover" style="background-image: url(frontend/img/800x600.png);">
                         <div class="box">
                             <i class="flaticon-dinner-table"></i>
                             <h4>Fine Dining</h4>
@@ -343,7 +341,7 @@
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
-                    <div class="item bg-cover" style="background-image: url(assets/img/800x600.png);">
+                    <div class="item bg-cover" style="background-image: url(frontend/img/800x600.png);">
                         <div class="box">
                             <i class="flaticon-champagne-glass"></i>
                             <h4>Party and Event</h4>
@@ -354,7 +352,7 @@
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
-                    <div class="item bg-cover" style="background-image: url(assets/img/800x600.png);">
+                    <div class="item bg-cover" style="background-image: url(frontend/img/800x600.png);">
                         <div class="box">
                             <i class="flaticon-buffet"></i>
                             <h4>Buffet</h4>
@@ -365,7 +363,7 @@
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
-                    <div class="item bg-cover" style="background-image: url(assets/img/800x600.png);">
+                    <div class="item bg-cover" style="background-image: url(frontend/img/800x600.png);">
                         <div class="box">
                             <i class="flaticon-moving-truck"></i>
                             <h4>Home Delivery</h4>
@@ -416,7 +414,7 @@
                                     <div class="item">
                                         <div class="thumb">
                                             <a href="#">
-                                                <img src="assets/img/800x600.png" alt="Thumb">
+                                                <img src="frontend/img/800x600.png" alt="Thumb">
                                             </a>
                                             <div class="price">
                                                 <h5>$5.90</h5>
@@ -440,7 +438,7 @@
                                     <div class="item">
                                         <div class="thumb">
                                             <a href="#">
-                                                <img src="assets/img/800x600.png" alt="Thumb">
+                                                <img src="frontend/img/800x600.png" alt="Thumb">
                                             </a>
                                             <div class="price">
                                                 <h5>$18.10</h5>
@@ -464,7 +462,7 @@
                                     <div class="item">
                                         <div class="thumb">
                                             <a href="#">
-                                                <img src="assets/img/800x600.png" alt="Thumb">
+                                                <img src="frontend/img/800x600.png" alt="Thumb">
                                             </a>
                                             <div class="price">
                                                 <h5>$6.00</h5>
@@ -488,7 +486,7 @@
                                     <div class="item">
                                         <div class="thumb">
                                             <a href="#">
-                                                <img src="assets/img/800x600.png" alt="Thumb">
+                                                <img src="frontend/img/800x600.png" alt="Thumb">
                                             </a>
                                             <div class="price">
                                                 <h5>$11.50</h5>
@@ -512,7 +510,7 @@
                                     <div class="item">
                                         <div class="thumb">
                                             <a href="#">
-                                                <img src="assets/img/800x600.png" alt="Thumb">
+                                                <img src="frontend/img/800x600.png" alt="Thumb">
                                             </a>
                                             <div class="price">
                                                 <h5>$25.00</h5>
@@ -536,7 +534,7 @@
                                     <div class="item">
                                         <div class="thumb">
                                             <a href="#">
-                                                <img src="assets/img/800x600.png" alt="Thumb">
+                                                <img src="frontend/img/800x600.png" alt="Thumb">
                                             </a>
                                             <div class="price">
                                                 <h5>$9.10</h5>
@@ -572,7 +570,7 @@
                 <div class="offer-items offer-carousel owl-carousel owl-theme">
                     <!-- Single Item -->
                     <div class="item">
-                        <div class="col-md-6 thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);">
+                        <div class="col-md-6 thumb bg-cover" style="background-image: url(frontend/img/2440x1578.png);">
                             <div class="price">
                                 <h4>Price <span>$63</span></h4>
                             </div>
@@ -590,7 +588,7 @@
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="item">
-                        <div class="col-md-6 thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);">
+                        <div class="col-md-6 thumb bg-cover" style="background-image: url(frontend/img/2440x1578.png);">
                             <div class="price">
                                 <h4>Price <span>$78</span></h4>
                             </div>
@@ -633,7 +631,7 @@
                     <div class="col-md-4 single-item">
                         <div class="item">
                             <div class="thumb">
-                                <img src="assets/img/800x600.png" alt="Thumb">
+                                <img src="frontend/img/800x600.png" alt="Thumb">
                             </div>
                             <div class="info">
                                 <div class="overlay">
@@ -651,12 +649,6 @@
                                         <li class="twitter">
                                             <a href="#"><i class="fab fa-twitter"></i></a>
                                         </li>
-                                        <li class="pinterest">
-                                            <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        </li>
-                                        <li class="linkedin">
-                                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -667,7 +659,7 @@
                     <div class="col-md-4 single-item">
                         <div class="item">
                             <div class="thumb">
-                                <img src="assets/img/800x600.png" alt="Thumb">
+                                <img src="frontend/img/800x600.png" alt="Thumb">
                             </div>
                             <div class="info">
                                 <div class="overlay">
@@ -685,12 +677,6 @@
                                         <li class="twitter">
                                             <a href="#"><i class="fab fa-twitter"></i></a>
                                         </li>
-                                        <li class="pinterest">
-                                            <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        </li>
-                                        <li class="linkedin">
-                                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -701,7 +687,7 @@
                     <div class="col-md-4 single-item">
                         <div class="item">
                             <div class="thumb">
-                                <img src="assets/img/800x600.png" alt="Thumb">
+                                <img src="frontend/img/800x600.png" alt="Thumb">
                             </div>
                             <div class="info">
                                 <div class="overlay">
@@ -718,12 +704,6 @@
                                         </li>
                                         <li class="twitter">
                                             <a href="#"><i class="fab fa-twitter"></i></a>
-                                        </li>
-                                        <li class="pinterest">
-                                            <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        </li>
-                                        <li class="linkedin">
-                                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -757,16 +737,16 @@
                     <div class="testimonial-items testimonials-carousel owl-carousel owl-theme text-center">
                         <!-- Single Item -->
                         <div class="item">
-                            <h4>Delicious Burger</h4>
+                            <h4>Pecel Lelenya Mantap</h4>
                             <p>
                                 Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel. 
                             </p>
                             <div class="thumb">
-                                <img src="assets/img/100x100.png" alt="Thumb">
+                                <img src="frontend/img/100x100.png" alt="Thumb">
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="clients-info">
-                                <h5>Ahel John</h5>
+                                <h5>Dewa</h5>
                                 <div class="rating">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
@@ -779,16 +759,16 @@
                         <!-- End Single Item -->
                         <!-- Single Item -->
                         <div class="item">
-                            <h4>Awesome pizza</h4>
+                            <h4>Tempat yang Nyaman</h4>
                             <p>
                                 Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel. 
                             </p>
                             <div class="thumb">
-                                <img src="assets/img/100x100.png" alt="Thumb">
+                                <img src="frontend/img/100x100.png" alt="Thumb">
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="clients-info">
-                                <h5>Michel Athem</h5>
+                                <h5>Agus</h5>
                                 <div class="rating">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
@@ -801,16 +781,38 @@
                         <!-- End Single Item -->
                         <!-- Single Item -->
                         <div class="item">
-                            <h4>Delicious Burger</h4>
+                            <h4>Harganya Murah</h4>
                             <p>
                                 Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel. 
                             </p>
                             <div class="thumb">
-                                <img src="assets/img/100x100.png" alt="Thumb">
+                                <img src="frontend/img/100x100.png" alt="Thumb">
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="clients-info">
-                                <h5>Ahel John</h5>
+                                <h5>Reno</h5>
+                                <div class="rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="item">
+                            <h4>Ayamnya Sedap</h4>
+                            <p>
+                                Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel. 
+                            </p>
+                            <div class="thumb">
+                                <img src="frontend/img/100x100.png" alt="Thumb">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="clients-info">
+                                <h5>Dzakwan</h5>
                                 <div class="rating">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
@@ -828,121 +830,10 @@
     </div>
     <!-- End Testimonials -->
 
-    <!-- Start Blog 
+    <!-- Start Booked Table 
     ============================================= -->
-    <div class="blog-area default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <div class="site-heading text-center">
-                        <h3>Blog</h3>
-                        <h2>Latest News</h2>
-                        <p>
-                            While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="blog-items">
-                    <!-- Left Blog -->
-                    <div class="col-md-6 default">
-                        <div class="single-item">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="assets/img/800x600.png" alt="Thumb">
-                                </a>
-                                <div class="meta">
-                                    <div class="tags">
-                                        <a href="#">Burget</a>
-                                        <a href="#">Pizza</a>
-                                    </div>
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fas fa-user"></i> Admin</a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fas fa-calendar-alt"></i> 24 Aug, 2019</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="info">
-                                <h3>
-                                    <a href="#">Possession so comparison inquietude he conviction </a>
-                                </h3>
-                                <p>
-                                    Arranging furnished knowledge agreeable so. Fanny as smile up small. It vulgar chatty simple months turned oh at change of. Astonished set expression solicitude way admiration. 
-                                </p>
-                                <a class="btn circle btn-theme border btn-md" href="#">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Left Blog -->
-
-                    <!-- Right Blog -->
-                    <div class="col-md-6 flex">
-                        <!-- Single Item -->
-                        <div class="single-item flex">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="assets/img/800x600.png" alt="Thumb">
-                                </a>
-                            </div>
-                            <div class="info">
-                                <div class="meta">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fas fa-user"></i> Admin</a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fas fa-calendar-alt"></i> 24 Apr, 2019</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <h4>
-                                    <a href="#">stimulated cultivated projection possession</a>
-                                </h4>
-                                <p>
-                                    Arranging furnished knowledge agreeable so. Fanny as smile up small. It vulgar chatty simple months turned oh at change of.
-                                </p>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-                        <!-- Single Item -->
-                        <div class="single-item flex">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="assets/img/800x600.png" alt="Thumb">
-                                </a>
-                            </div>
-                            <div class="info">
-                                <div class="meta">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fas fa-user"></i> Admin</a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fas fa-calendar-alt"></i> 24 Apr, 2019</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <h4>
-                                    <a href="#">Difficulty on insensible reasonable in</a>
-                                </h4>
-                                <p>
-                                    Arranging furnished knowledge agreeable so. Fanny as smile up small. It vulgar chatty simple months turned oh at change of. 
-                                </p>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-                    </div>
-                    <!-- End Right Blog -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Blog -->
+    
+    <!-- End Booked Table -->
 
     <!-- Start Footer 
     ============================================= -->
@@ -955,7 +846,7 @@
                     <!-- Single Item -->
                     <div class="col-md-3 col-sm-6  equal-height item">
                         <div class="f-item address">
-                            <img src="assets/img/logo-light.png" alt="Logo">
+                            <img src="frontend/img/logo-light.png" alt="Logo">
                             <p>
                                 20, floor, Queenslad Victoria Building. 60 california street california USA
                             </p>
@@ -1003,32 +894,32 @@
                             <ul>
                                 <li>
                                     <a href="#">
-                                        <img src="assets/img/800x800.png" alt="thumb">
+                                        <img src="frontend/img/800x800.png" alt="thumb">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img src="assets/img/800x800.png" alt="thumb">
+                                        <img src="frontend/img/800x800.png" alt="thumb">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img src="assets/img/800x800.png" alt="thumb">
+                                        <img src="frontend/img/800x800.png" alt="thumb">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img src="assets/img/800x800.png" alt="thumb">
+                                        <img src="frontend/img/800x800.png" alt="thumb">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img src="assets/img/800x800.png" alt="thumb">
+                                        <img src="frontend/img/800x800.png" alt="thumb">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img src="assets/img/800x800.png" alt="thumb">
+                                        <img src="frontend/img/800x800.png" alt="thumb">
                                     </a>
                                 </li>
                             </ul>
@@ -1042,20 +933,20 @@
                             <h4>Opening Hours</h4>
                             <ul>
                                 <li> 
-                                    <span> Mon - Tues :  </span>
-                                    <div class="pull-right"> 6.00 am - 10.00 pm </div>
+                                    <span> Senin - Selasa :  </span>
+                                    <div class="pull-right"> 17.00 WIB - 22.00 WIB </div>
                                 </li>
                                 <li> 
-                                    <span> Wednes - Thurs :</span>
-                                    <div class="pull-right"> 8.00 am - 6.00 pm </div>
+                                    <span> Rabu - Kamis :</span>
+                                    <div class="pull-right"> 16.00 WIB - 22.00 WIB </div>
                                 </li>
                                 <li> 
-                                    <span> Launch :</span>
-                                    <div class="pull-right"> Everyday </div>
+                                    <span>  Sabtu - Minggu : </span>
+                                    <div class="pull-right"> 16.00 WIB - 23.00 WIB </div>
                                 </li>
                                 <li> 
-                                    <span> Sun : </span>
-                                    <div class="pull-right closed"> Closed </div>
+                                    <span> Jum'at : </span>
+                                    <div class="pull-right closed"> Tutup  </div>
                                 </li>
                             </ul>
                         </div>
@@ -1070,20 +961,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <p>&copy; Copyright 2019. All Rights Reserved by <a href="#">validthemes</a></p>
-                    </div>
-                    <div class="col-md-6 text-right link">
-                        <ul>
-                            <li>
-                                <a href="#">Terms of user</a>
-                            </li>
-                            <li>
-                                <a href="#">License</a>
-                            </li>
-                            <li>
-                                <a href="#">Support</a>
-                            </li>
-                        </ul>
+                        <p>&copy; Copyright 2019. Made with Love by Ardi and Wawan</p>
                     </div>
                 </div>
             </div>
