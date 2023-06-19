@@ -132,12 +132,12 @@
                 <div class="about-items">
                     <div class="col-md-7 info">
                         <h3>Our Story</h3>
-                        <h2>Until I discovered cooking I was never<br> really interested in anything</h2>
+                        <h2>Sampai saya menemukan memasak saya tidak pernah <br> sangat tertarik pada apapun</h2>
                         <p>
-                            Pleased anxious or as in by viewing forbade minutes prevent. Too leave had those get being led weeks blind. Had men rose from down lady able. Its son him ferrars proceed six parlors.
+                           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget sapien eget tellus varius ornare. Quisque ac tincidunt velit. Nam bibendum nisl non arcu ullamcorper sagittis. Phasellus in metus in dolor laoreet mollis. In ac ex lorem.
                         </p>
                         <p>
-                           Advanced diverted domestic sex repeated bringing you old. Possible procured her trifling laughter thoughts property she met way. Companions shy had solicitude favourable own. Which could saw guest man now heard but. Lasted my coming uneasy marked so should. Gravity letters it amongst herself dearest an windows by. Wooded ladies she basket.
+                           Morbi eu tincidunt tortor. Suspendisse justo magna, convallis sed elit non, tempor scelerisque neque. Quisque scelerisque felis nec ante mattis condimentum. Nulla commodo arcu ac libero scelerisque tincidunt. Ut in consectetur lacus. Curabitur ultricies consectetur urna in blandit. Duis blandit neque id facilisis tempor.
                         </p>
                         <ul>
                             <li>
@@ -145,7 +145,7 @@
                                     <i class="fas fa-phone"></i>
                                 </div>
                                 <div class="info">
-                                    <h4>Phone</h4>
+                                    <h4>Telphone</h4>
                                     <span>+123 456 7890</span>
                                 </div>
                             </li>
@@ -231,9 +231,9 @@
                     <div class="item bg-cover" style="background-image: url(frontend/img/800x600.png);">
                         <div class="box">
                             <i class="flaticon-champagne-glass"></i>
-                            <h4>Party and Event</h4>
+                            <h4>Pesta Ulang Tahun </h4>
                             <p>
-                                Belonging sir curiosity discovery extremity yet forfeited prevailed own off. Travelling by introduced of mr terminated.
+                                Pellentesque lorem erat, maximus eleifend elementum convallis, imperdiet id turpis. In posuere vel nisi vel lobortis. Aliquam ornare nibh rutrum dui fringilla dictum. Integer id turpis ante. Donec non leo eget leo imperdiet elementum eu vitae enim. Sed sed ex urna.
                             </p>
                         </div>
                     </div>
@@ -242,9 +242,9 @@
                     <div class="item bg-cover" style="background-image: url(frontend/img/800x600.png);">
                         <div class="box">
                             <i class="flaticon-buffet"></i>
-                            <h4>Buffet</h4>
+                            <h4>Bukber</h4>
                             <p>
-                                Belonging sir curiosity discovery extremity yet forfeited prevailed own off. Travelling by introduced of mr terminated.
+                               Morbi euismod nisl nec leo pharetra mattis eu faucibus metus. Vivamus quis consectetur nibh. Donec ullamcorper elit lorem, non hendrerit neque mattis quis. Etiam condimentum, erat a sodales accumsan, massa nibh efficitur justo, porta egestas dui eros nec est. Sed eget quam eu mi sodales vulputate. Pellentesque luctus pulvinar metus vitae tristique.
                             </p>
                         </div>
                     </div>
