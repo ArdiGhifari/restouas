@@ -143,6 +143,7 @@
 </template>
 
 <script>
+
 import HeaderCom from '@/components/HeaderCom.vue'
 import FooterCom from '@/components/FooterCom.vue'
 export default {

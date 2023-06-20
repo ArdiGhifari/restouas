@@ -32,7 +32,7 @@
                 <div class="collapse navbar-collapse" id="navbar-menu">
                     <ul class="nav navbar-nav navbar-right" data-in="#" data-out="#">
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Home</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Home</a>
                             <ul class="dropdown-menu">
                                 <li>
                                     <router-link to="/">Home</router-link>
@@ -42,10 +42,7 @@
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Pages</a>
                             <ul class="dropdown-menu">
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >About</a>
-                                </li>
-                                <li><router-link to="/chefs">chef</router-link></li>
+                                <li><router-link to="/chefs">Chef</router-link></li>
                             </ul>
                         </li>
                         <li><router-link to="/reservations">Reservation</router-link></li>

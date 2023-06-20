@@ -219,21 +219,10 @@
                     <!-- Single Item -->
                     <div class="item bg-cover" style="background-image: url(frontend/img/800x600.png);">
                         <div class="box">
-                            <i class="flaticon-dinner-table"></i>
-                            <h4>Fine Dining</h4>
-                            <p>
-                                Belonging sir curiosity discovery extremity yet forfeited prevailed own off. Travelling by introduced of mr terminated.
-                            </p>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                    <!-- Single Item -->
-                    <div class="item bg-cover" style="background-image: url(frontend/img/800x600.png);">
-                        <div class="box">
                             <i class="flaticon-champagne-glass"></i>
                             <h4>Pesta Ulang Tahun </h4>
                             <p>
-                                Pellentesque lorem erat, maximus eleifend elementum convallis, imperdiet id turpis. In posuere vel nisi vel lobortis. Aliquam ornare nibh rutrum dui fringilla dictum. Integer id turpis ante. Donec non leo eget leo imperdiet elementum eu vitae enim. Sed sed ex urna.
+                                Belonging sir curiosity discovery extremity yet forfeited prevailed own off. Travelling by introduced of mr terminated.
                             </p>
                         </div>
                     </div>
@@ -244,7 +233,7 @@
                             <i class="flaticon-buffet"></i>
                             <h4>Bukber</h4>
                             <p>
-                               Morbi euismod nisl nec leo pharetra mattis eu faucibus metus. Vivamus quis consectetur nibh. Donec ullamcorper elit lorem, non hendrerit neque mattis quis. Etiam condimentum, erat a sodales accumsan, massa nibh efficitur justo, porta egestas dui eros nec est. Sed eget quam eu mi sodales vulputate. Pellentesque luctus pulvinar metus vitae tristique.
+                               Belonging sir curiosity discovery extremity yet forfeited prevailed own off. Travelling by introduced of mr terminated.
                             </p>
                         </div>
                     </div>
