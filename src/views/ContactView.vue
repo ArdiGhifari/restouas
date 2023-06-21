@@ -3,7 +3,7 @@
 
     <!-- Start Breadcrumb 
     ============================================= -->
-    <div class="breadcrumb-area shadow text-center dark bg-fixed text-light" style="background-image: url(assets/img/2440x1578.png);">
+    <div class="breadcrumb-area shadow text-center dark bg-fixed text-light" style="background-image: url(frontend/img/bg-contact.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -132,7 +132,7 @@
         <div class="container-full">
             <div class="row">
                 <div class="google-maps">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d14767.262289338461!2d70.79414485000001!3d22.284975!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1424308883981"></iframe>
+                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.4603045673393!2d104.81372377592932!3d-2.9696938397853043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e3b77bea9479f7d%3A0x99a642604dfe658c!2sLorong%20Iwari%20I%2C%20Sei%20Selincah%2C%20Kec.%20Kalidoni%2C%20Kota%20Palembang%2C%20Sumatera%20Selatan%2030161!5e0!3m2!1sen!2sid!4v1687316660726!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>

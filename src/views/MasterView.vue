@@ -21,17 +21,14 @@
                                     <div class="col-md-8">
                                         <div class="content">
                                             <h2 data-animation="animated fadeInUp">Buffet</h2>
-                                            <h1 data-animation="animated slideInLeft">Official Packages</h1>
+                                            <h1 data-animation="animated slideInLeft">Paket Ulang Tahun</h1>
                                             <div class="lists" data-animation="animated slideInUp">
                                                 <ul>
                                                     <li>
-                                                        <i class="flaticon-hamburger"></i> 40 Food
+                                                        <i class="flaticon-hamburger"></i> 10 Food
                                                     </li>
                                                     <li>
-                                                        <i class="flaticon-champagne-glass"></i> 19 Drinks
-                                                    </li>
-                                                    <li>
-                                                        <i class="flaticon-coffee-cup"></i> 28 Soup
+                                                        <i class="flaticon-champagne-glass"></i> 10 Drinks
                                                     </li>
                                                 </ul>
                                             </div>
@@ -51,17 +48,14 @@
                                     <div class="col-md-8">
                                         <div class="content">
                                             <h2 data-animation="animated fadeInUp">Buffet</h2>
-                                            <h1 data-animation="animated slideInLeft">Student Packages</h1>
+                                            <h1 data-animation="animated slideInLeft">Paket Mahasiswa</h1>
                                             <div class="lists" data-animation="animated slideInUp">
                                                 <ul>
                                                     <li>
-                                                        <i class="flaticon-hamburger"></i> 40 Food
+                                                        <i class="flaticon-hamburger"></i> 5 Food
                                                     </li>
                                                     <li>
-                                                        <i class="flaticon-champagne-glass"></i> 19 Drinks
-                                                    </li>
-                                                    <li>
-                                                        <i class="flaticon-coffee-cup"></i> 28 Soup
+                                                        <i class="flaticon-champagne-glass"></i> 5 Drinks
                                                     </li>
                                                 </ul>
                                             </div>
@@ -81,17 +75,14 @@
                                     <div class="col-md-8">
                                         <div class="content">
                                             <h2 data-animation="animated fadeInUp">Buffet</h2>
-                                            <h1 data-animation="animated slideInLeft">Family Packages</h1>
+                                            <h1 data-animation="animated slideInLeft">Paket Buka Bersama</h1>
                                             <div class="lists" data-animation="animated slideInUp">
                                                 <ul>
                                                     <li>
-                                                        <i class="flaticon-hamburger"></i> 40 Food
+                                                        <i class="flaticon-hamburger"></i> 20 Food
                                                     </li>
                                                     <li>
-                                                        <i class="flaticon-champagne-glass"></i> 19 Drinks
-                                                    </li>
-                                                    <li>
-                                                        <i class="flaticon-coffee-cup"></i> 28 Soup
+                                                        <i class="flaticon-champagne-glass"></i> 20 Drinks
                                                     </li>
                                                 </ul>
                                             </div>
@@ -217,7 +208,7 @@
             <div class="row">
                 <div class="services-items services-carousel owl-carousel owl-theme text-center text-light">
                     <!-- Single Item -->
-                    <div class="item bg-cover" style="background-image: url(frontend/img/800x600.png);">
+                    <div class="item bg-cover" style="background-image: url(frontend/img/pesta-ulangtahun.jpg);">
                         <div class="box">
                             <i class="flaticon-champagne-glass"></i>
                             <h4>Pesta Ulang Tahun </h4>
@@ -228,7 +219,7 @@
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
-                    <div class="item bg-cover" style="background-image: url(frontend/img/800x600.png);">
+                    <div class="item bg-cover" style="background-image: url(frontend/img/bukber.jpg);">
                         <div class="box">
                             <i class="flaticon-buffet"></i>
                             <h4>Bukber</h4>
@@ -239,7 +230,7 @@
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
-                    <div class="item bg-cover" style="background-image: url(frontend/img/800x600.png);">
+                    <div class="item bg-cover" style="background-image: url(frontend/img/kurir.jpg);">
                         <div class="box">
                             <i class="flaticon-moving-truck"></i>
                             <h4>Home Delivery</h4>
@@ -446,15 +437,15 @@
                 <div class="offer-items offer-carousel owl-carousel owl-theme">
                     <!-- Single Item -->
                     <div class="item">
-                        <div class="col-md-6 thumb bg-cover" style="background-image: url(frontend/img/2440x1578.png);">
+                        <div class="col-md-6 thumb bg-cover" style="background-image: url(frontend/img/bukber.jpg);">
                             <div class="price">
-                                <h4>Price <span>$63</span></h4>
+                                <h4>Price <span>Rp.500.000</span></h4>
                             </div>
                         </div>
                         <div class="col-md-6 info">
                             <h3>Special Offer</h3>
-                            <h2>Famirly Party</h2>
-                            <span>Fried Chicken / Gordita Crunch / Pizza / Burger</span>
+                            <h2>Buka Bersama</h2>
+                            <span>Ayam Bakar / Pecel Lele / Sate Kerang</span>
                             <p>
                                 Frankness applauded by supported ye household. Collected favourite now for for and rapturous repulsive consulted. An seems green be wrote again. She add what own only like. Tolerably we as extremity exquisite do commanded. Doubtful offended do entrance of landlord moreover is mistress in. Nay was appear entire ladies. Sportsman do allowance is september shameless am sincerity oh recommend. Gate tell man day that who. 
                             </p>
@@ -464,15 +455,15 @@
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="item">
-                        <div class="col-md-6 thumb bg-cover" style="background-image: url(frontend/img/2440x1578.png);">
+                        <div class="col-md-6 thumb bg-cover" style="background-image: url(frontend/img/pesta-ulangtahun.jpg);">
                             <div class="price">
-                                <h4>Price <span>$78</span></h4>
+                                <h4>Price <span>Rp.600.000</span></h4>
                             </div>
                         </div>
                         <div class="col-md-6 info">
                             <h3>Special Offer</h3>
-                            <h2>Birthday Party</h2>
-                            <span>Fried Chicken / Gordita Crunch / Pizza / Burger</span>
+                            <h2>Pesta Ulang Tahun</h2>
+                            <span>Ayam Bakar/ Pecel Lele/ Kue Spesial</span>
                             <p>
                                 Frankness applauded by supported ye household. Collected favourite now for for and rapturous repulsive consulted. An seems green be wrote again. She add what own only like. Tolerably we as extremity exquisite do commanded. Doubtful offended do entrance of landlord moreover is mistress in. Nay was appear entire ladies. Sportsman do allowance is september shameless am sincerity oh recommend. Gate tell man day that who. 
                             </p>
@@ -618,7 +609,7 @@
                                 Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel. 
                             </p>
                             <div class="thumb">
-                                <img src="frontend/img/100x100.png" alt="Thumb">
+                                <img src="frontend/img/dewa.jpg" alt="Thumb">
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="clients-info">
@@ -640,7 +631,7 @@
                                 Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel. 
                             </p>
                             <div class="thumb">
-                                <img src="frontend/img/100x100.png" alt="Thumb">
+                                <img src="frontend/img/agus.jpg" alt="Thumb">
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="clients-info">
@@ -662,7 +653,7 @@
                                 Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel. 
                             </p>
                             <div class="thumb">
-                                <img src="frontend/img/100x100.png" alt="Thumb">
+                                <img src="frontend/img/reno.jpg" alt="Thumb">
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="clients-info">
@@ -684,7 +675,7 @@
                                 Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel. 
                             </p>
                             <div class="thumb">
-                                <img src="frontend/img/100x100.png" alt="Thumb">
+                                <img src="frontend/img/dzakwan.jpg" alt="Thumb">
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="clients-info">

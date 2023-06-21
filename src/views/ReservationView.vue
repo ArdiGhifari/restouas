@@ -2,7 +2,7 @@
   <header-com></header-com>
         <!-- Start Breadcrumb 
     ============================================= -->
-    <div class="breadcrumb-area shadow text-center dark bg-fixed text-light" style="background-image: url(assets/img/2440x1578.png);">
+    <div class="breadcrumb-area shadow text-center dark bg-fixed text-light" style="background-image: url(frontend/img/bg-reservation.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">

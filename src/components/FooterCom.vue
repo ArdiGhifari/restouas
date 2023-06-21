@@ -12,14 +12,14 @@
                         <div class="f-item address">
                             <img src="frontend/img/logo-light.png" alt="Logo">
                             <p>
-                                20, floor, Queenslad Victoria Building. 60 california street california USA
+                                Jln.Taqwa Mata Merah Depan Lrg Iwari No 20
                             </p>
                             <ul>
                                 <li>
                                     <span>Phone: </span> +123 456 7890
                                 </li>
                                 <li>
-                                    <span>Email: </span> <a href="mailto:support@validtheme.com">support@validtheme.com</a>
+                                    <span>Email: </span> <a href="mailto:maswawan@yahoo.com">maswawan@yahoo.com</a>
                                 </li>
                             </ul>
                         </div>
@@ -32,64 +32,22 @@
                             <h4>Food Menu</h4>
                             <ul>
                                 <li>
-                                    <a href="#">Chees croissants</a>
+                                    <a href="#">Pecel Lele</a>
                                 </li>
                                 <li>
-                                    <a href="#">Bruschetti</a>
+                                    <a href="#">Ayam Bakar</a>
                                 </li>
                                 <li>
-                                    <a href="#">Awesome Vegetables</a>
+                                    <a href="#">Ayam Goreng</a>
                                 </li>
                                 <li>
-                                    <a href="#">Tasty Snacks</a>
-                                </li>
-                                <li>
-                                    <a href="#">Meal for whole family</a>
+                                    <a href="#">Sate Kerang</a>
                                 </li>
                             </ul>
                         </div>
                     </div>
                     <!-- End Single Item -->
 
-                    <!-- Single Item -->
-                    <div class="col-md-3 col-sm-6  equal-height item">
-                        <div class="f-item inst-feed">
-                            <h4>Instagram Feed</h4>
-                            <ul>
-                                <li>
-                                    <a href="#">
-                                        <img src="frontend/img/800x800.png" alt="thumb">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img src="frontend/img/800x800.png" alt="thumb">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img src="frontend/img/800x800.png" alt="thumb">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img src="frontend/img/800x800.png" alt="thumb">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img src="frontend/img/800x800.png" alt="thumb">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img src="frontend/img/800x800.png" alt="thumb">
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
 
                     <!-- Single Item -->
                     <div class="col-md-3 col-sm-6 equal-height item">
