@@ -146,7 +146,7 @@
                                 </div>
                                 <div class="info">
                                     <h4>Email</h4>
-                                    <span>support@restcafe.com</span>
+                                    <span>maswawan@yahoo.com</span>
                                 </div>
                             </li>
                         </ul>
@@ -293,9 +293,7 @@
                                             <p>
                                                 Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
                                             </p>
-                                            <div class="button">
-                                                <a href="#">Order Now</a>
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -317,9 +315,7 @@
                                             <p>
                                                 Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
                                             </p>
-                                            <div class="button">
-                                                <a href="#">Order Now</a>
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -341,9 +337,7 @@
                                             <p>
                                                 Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
                                             </p>
-                                            <div class="button">
-                                                <a href="#">Order Now</a>
-                                            </div>
+                                           
                                         </div>
                                     </div>
                                 </div>
@@ -365,9 +359,7 @@
                                             <p>
                                                 Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
                                             </p>
-                                            <div class="button">
-                                                <a href="#">Order Now</a>
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -389,9 +381,7 @@
                                             <p>
                                                 Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
                                             </p>
-                                            <div class="button">
-                                                <a href="#">Order Now</a>
-                                            </div>
+                                           
                                         </div>
                                     </div>
                                 </div>
@@ -413,9 +403,7 @@
                                             <p>
                                                 Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
                                             </p>
-                                            <div class="button">
-                                                <a href="#">Order Now</a>
-                                            </div>
+                                           
                                         </div>
                                     </div>
                                 </div>
