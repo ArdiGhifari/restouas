@@ -32,7 +32,7 @@
                                                     </li>
                                                 </ul>
                                             </div>
-                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Order Now</a>
+                                            <router-link data-animation="animated slideInUp" class="btn btn-theme effect btn-md" to="/reservations">Order Now</router-link>
                                         </div>
                                     </div>
                                 </div>

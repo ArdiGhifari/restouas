@@ -86,11 +86,10 @@
                 <div class="widget">
                     <h4 class="title">Our Menus</h4>
                     <ul>
-                        <li><a href="#">Chees croissants</a></li>
-                        <li><a href="#">Bruschetti</a></li>
-                        <li><a href="#">Awesome Vegetables</a></li>
-                        <li><a href="#">Tasty Snacks</a></li>
-                        <li><a href="#">Meal for whole family</a></li>
+                        <li><a href="#">Pecel Lele</a></li>
+                        <li><a href="#">Ayam Bakar</a></li>
+                        <li><a href="#">Ayam Goreng</a></li>
+                        <li><a href="#">Sate Kerang</a></li>
                     </ul>
                 </div>
                 <div class="widget social">
