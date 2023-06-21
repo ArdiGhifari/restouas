@@ -109,13 +109,23 @@
 </template>
 
 <script>
-import FooterCom from '@/components/FooterCom.vue'
-import HeaderCom from '@/components/HeaderCom.vue'
+import FooterCom from '@/components/FooterCom.vue';
+import HeaderCom from '@/components/HeaderCom.vue';
+
 
 export default {
   components: { FooterCom,HeaderCom},
-    name : 'ReservationView'
+    name : 'ReservationView',
 }
+
+
+
+
+
+
+
+
+
 </script>
 
 <style>
