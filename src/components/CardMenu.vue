@@ -33,7 +33,7 @@
                                     <div class="item">
                                         <div class="thumb">
                                             <a href="#">
-                                                <img src="frontend/img/800x600.png" alt="Thumb">
+                                                <img src="frontend/img/pecel-lele.jpg" alt="Thumb">
                                             </a>
                                             <div class="price">
                                                 <h5>Rp.15.000</h5>
@@ -54,7 +54,7 @@
                                     <div class="item">
                                         <div class="thumb">
                                             <a href="#">
-                                                <img src="frontend/img/800x600.png" alt="Thumb">
+                                                <img src="frontend/img/lele-tepung.jpg" alt="Thumb">
                                             </a>
                                             <div class="price">
                                                 <h5>Rp.15.000</h5>
@@ -75,7 +75,7 @@
                                     <div class="item">
                                         <div class="thumb">
                                             <a href="#">
-                                                <img src="frontend/img/800x600.png" alt="Thumb">
+                                                <img src="frontend/img/ayam-bakar.jpg" alt="Thumb">
                                             </a>
                                             <div class="price">
                                                 <h5>Rp.17.000</h5>
@@ -96,7 +96,7 @@
                                     <div class="item">
                                         <div class="thumb">
                                             <a href="#">
-                                                <img src="frontend/img/800x600.png" alt="Thumb">
+                                                <img src="frontend/img/ayam-goreng.jpeg" alt="Thumb">
                                             </a>
                                             <div class="price">
                                                 <h5>Rp.17.000</h5>
@@ -117,7 +117,7 @@
                                     <div class="item">
                                         <div class="thumb">
                                             <a href="#">
-                                                <img src="frontend/img/800x600.png" alt="Thumb">
+                                                <img src="frontend/img/es-teh.jpg" alt="Thumb">
                                             </a>
                                             <div class="price">
                                                 <h5>Rp.5.000</h5>
@@ -138,7 +138,7 @@
                                     <div class="item">
                                         <div class="thumb">
                                             <a href="#">
-                                                <img src="frontend/img/800x600.png" alt="Thumb">
+                                                <img src="frontend/img/es-jeruk.jpg" alt="Thumb">
                                             </a>
                                             <div class="price">
                                                 <h5>Rp.5.000</h5>

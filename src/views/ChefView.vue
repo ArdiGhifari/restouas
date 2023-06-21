@@ -56,7 +56,7 @@
                     <div class="col-md-4 single-item">
                         <div class="item">
                             <div class="thumb">
-                                <img src="frontend/img/assisten.jpg" alt="Thumb">
+                                <img src="frontend/img/assisten-chef.jpg" alt="Thumb">
                             </div>
                             <div class="info">
                                 <div class="overlay">
@@ -84,7 +84,7 @@
                     <div class="col-md-4 single-item">
                         <div class="item">
                             <div class="thumb">
-                                <img src="frontend/img/pelayan.jpg" alt="Thumb">
+                                <img src="frontend/img/assisten.jpg" alt="Thumb">
                             </div>
                             <div class="info">
                                 <div class="overlay">
