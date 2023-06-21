@@ -123,7 +123,7 @@
                 <div class="about-items">
                     <div class="col-md-7 info">
                         <h3>Our Story</h3>
-                        <h2>Sampai saya menemukan memasak saya tidak pernah <br> sangat tertarik pada apapun</h2>
+                        <h2>Until I discovered cooking I was never<br> really interested in anything</h2>
                         <p>
                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget sapien eget tellus varius ornare. Quisque ac tincidunt velit. Nam bibendum nisl non arcu ullamcorper sagittis. Phasellus in metus in dolor laoreet mollis. In ac ex lorem.
                         </p>
