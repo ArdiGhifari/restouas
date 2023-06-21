@@ -41,7 +41,7 @@
                                     <a href="#">Ayam Goreng</a>
                                 </li>
                                 <li>
-                                    <a href="#">Sate Kerang</a>
+                                    <a href="#">Lele Tepung</a>
                                 </li>
                             </ul>
                         </div>
