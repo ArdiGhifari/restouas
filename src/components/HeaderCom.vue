@@ -89,7 +89,7 @@
                         <li><a href="#">Pecel Lele</a></li>
                         <li><a href="#">Ayam Bakar</a></li>
                         <li><a href="#">Ayam Goreng</a></li>
-                        <li><a href="#">Sate Kerang</a></li>
+                        <li><a href="#">Lele Tepung</a></li>
                     </ul>
                 </div>
                 <div class="widget social">
