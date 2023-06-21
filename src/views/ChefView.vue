@@ -28,7 +28,7 @@
                     <div class="col-md-4 single-item">
                         <div class="item">
                             <div class="thumb">
-                                <img src="assets/img/800x600.png" alt="Thumb">
+                                <img src="frontend/img/chef.jpg" alt="Thumb">
                             </div>
                             <div class="info">
                                 <div class="overlay">
@@ -46,12 +46,6 @@
                                         <li class="twitter">
                                             <a href="#"><i class="fab fa-twitter"></i></a>
                                         </li>
-                                        <li class="pinterest">
-                                            <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        </li>
-                                        <li class="linkedin">
-                                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -62,12 +56,12 @@
                     <div class="col-md-4 single-item">
                         <div class="item">
                             <div class="thumb">
-                                <img src="assets/img/800x600.png" alt="Thumb">
+                                <img src="frontend/img/assisten.jpg" alt="Thumb">
                             </div>
                             <div class="info">
                                 <div class="overlay">
                                     <h4>Ahel Natasha</h4>
-                                    <span>Patissier</span>
+                                    <span>Assisten Chef</span>
                                 </div>
                                 <div class="content">
                                     <p>
@@ -80,12 +74,6 @@
                                         <li class="twitter">
                                             <a href="#"><i class="fab fa-twitter"></i></a>
                                         </li>
-                                        <li class="pinterest">
-                                            <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        </li>
-                                        <li class="linkedin">
-                                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -96,12 +84,12 @@
                     <div class="col-md-4 single-item">
                         <div class="item">
                             <div class="thumb">
-                                <img src="assets/img/800x600.png" alt="Thumb">
+                                <img src="frontend/img/pelayan.jpg" alt="Thumb">
                             </div>
                             <div class="info">
                                 <div class="overlay">
                                     <h4>Gabriela Beckett</h4>
-                                    <span>cook</span>
+                                    <span>Pelayan</span>
                                 </div>
                                 <div class="content">
                                     <p>
